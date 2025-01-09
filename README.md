@@ -19,8 +19,8 @@ Aspiring Software Developer passionate about building data-driven solutions and 
 ## 🌟 Projects  
 - [Wild Atlantic Way Feedback Hub](https://github.com/anakuc/Wild-Atlantic-Way-Feedback-Hub): SQL database system analyzing tourist reviews for actionable insights.
 - [Networking with Cisco Packet Tracer](https://github.com/anakuc/Networking-with-Cisco-Packet-Tracer): A network simulation project focusing on configuring routers, switches, and network devices for realistic network environments. Includes tasks such as **subnetting**, **VLAN configuration**, **DHCP setup**, and **Wireshark analysis**.
+- [Machine Learning Beverage Demand](https://github.com/anakuc/Machine-Learning-Beverage-Demand): A machine learning project using regression models to predict beverage demand.
 <!-- - [Country, News, and Weather App](link_to_project): Mobile app fetching real-time data with advanced search and customization features.  -->
-<!-- - [Sales Forecasting Model](link_to_project): Machine learning model for predicting sales trends from large datasets.  -->
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/akucerovska/) 
